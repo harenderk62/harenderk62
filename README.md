@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2018 (and squashing them even faster!)<br>🌱 Hungry to learn and grow more<br>💼 Full-stack developer with expertise in Python, Java, and JavaScript<br>🚀 AWS enthusiast, building scalable cloud solutions<br>💻 Check out my portfolio and let's connect: Harender Kumar<br>📚 Lifelong learner, constantly expanding my tech stack</p>
+<p align="left">✨ Creating bugs since 2018 (and squashing them even faster!)<br>🌱 Hungry to learn and grow more<br>💼 Full-stack developer with expertise in Python, Java, and JavaScript<br>🚀 AWS enthusiast, building scalable cloud solutions<br>💻 Check out my portfolio and let's connect: <a href="www.harender.in">Harender Kumar</a><br>📚 Lifelong learner, constantly expanding my tech stack</p>
 
 ###
 
@@ -48,6 +48,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" height="40" alt="apachekafka logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40" alt="redis logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
 </div>
 
 ###
@@ -63,7 +64,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/harenderk62/harenderk62/output/snake.svg" alt="Snake animation" />
 
 ###
 
@@ -72,8 +72,7 @@
 ###
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-</div>
+<a href="https://www.linkedin.com/in/harenderkumardtu"> <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" /> </a> 
+<a href="mailto:harenderk62@gmail.com"> <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo" /> </a> </div>
 
 ###
